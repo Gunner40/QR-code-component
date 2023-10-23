@@ -24,8 +24,8 @@ Challenge was to build out the QR code component and get it looking as close to 
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/Gunner40/QR-code-component/)]
-- Live Site URL: [[Add live site URL here](https://gunner40.github.io/QR-code-component/)]
+- Solution URL: [[Add solution URL here](https://github.com/Gunner40/QR-code-component/)](https://github.com/Gunner40/QR-code-component/)
+- Live Site URL: [[Add live site URL here](https://gunner40.github.io/QR-code-component/)](https://gunner40.github.io/QR-code-component/)
 
 ## My process
 
