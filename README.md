@@ -29,7 +29,7 @@ Challenge was to build out the QR code component and get it looking as close to 
 
 ## My process
 
-Stidy design and plan the html structure and class names. Build the HTML first followed by the CSS and use best judgement on magins and paddings. Use custom variables attained from the style guide.
+Study design and plan the html structure and class names. Build the HTML first, followed by the CSS, and use best judgement on margins and paddings. Use custom variables attained from the style guide.
 
 ### Built with
 
@@ -40,7 +40,7 @@ Stidy design and plan the html structure and class names. Build the HTML first f
 
 ### What I learned
 
-The css calc function must have a space between the operator. So width: calc(375px - 4em); will work but width: calc(375px -4em); will not.
+The css calc function must have a space between the operator. So width: calc(375px - 4em) will work, but width: calc(375px -4em) will not.
 
 ```css
 .card {
@@ -50,7 +50,7 @@ The css calc function must have a space between the operator. So width: calc(375
 
 ### Continued development
 
-I need to start using css grid on future challenges. I also need to revise React and start using that too.
+I need to start using css grid on future challenges. I also need to revise React and start using that.
 
 ### Useful resources
 
